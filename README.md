@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **discord: shaki#5559**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
