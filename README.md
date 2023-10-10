@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shaki</h1>
-<h3 align="center">A developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshaki&label=Profile%20views&color=0e75b6&style=flat" alt="devshaki" /> </p>
 
